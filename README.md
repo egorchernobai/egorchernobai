@@ -1,3 +1,3 @@
-Egor Chernobai
-NovSU 3091 \
+Egor Chernobai \
+Student of NovSU, study group - 3091 \
 Telegram: @another_useless_nickname
